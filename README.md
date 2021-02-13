@@ -8,6 +8,8 @@
 
 ```bash
 npm install --save react-library-components
+or
+yarn add react-library-components
 ```
 
 ## Usage
@@ -27,5 +29,5 @@ class Example extends Component {
 
 ## License
 
-MIT © [jeff roussel](https://github.com/jeff roussel)
+MIT © [jeff roussel](https://github.com/jfroussel)
 # react-library-component
