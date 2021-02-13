@@ -28,3 +28,4 @@ class Example extends Component {
 ## License
 
 MIT © [jeff roussel](https://github.com/jeff roussel)
+# react-library-component
